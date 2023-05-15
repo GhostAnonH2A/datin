@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.matatiele.gov.za/wp-admin/css/slot-deposit-pulsa/sitemap.xml
